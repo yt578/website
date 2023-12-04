@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Yinuo Tao’s project",
     "section": "",
-    "text": "introduction\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nConclusions\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nData Gathering\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nData claening\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nData exploration\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nclustering\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\ncode\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\ndata\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nDimensionality reduction\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nDecision Trees\n\n\n\n\n\n\n\nClassification\n\n\nRegression\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nFinal Introduction\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "introduction\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nConclusions\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nData Gathering\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nData claening\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nData exploration\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nclustering\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nDimensionality reduction\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nDecision Trees\n\n\n\n\n\n\n\nClassification\n\n\nRegression\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\ncode\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\n\n\n\n\n  \n\n\n\n\ndata\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -137,7 +137,7 @@
     "href": "posts/2.code/index.html",
     "title": "code",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "https://github.com/anly501/dsan-5000-project-yt578"
   },
   {
     "objectID": "posts/1.introduction/index.html",
@@ -151,7 +151,7 @@
     "href": "posts/3.data/index.html",
     "title": "data",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "https://github.com/anly501/dsan-5000-project-yt578"
   },
   {
     "objectID": "posts/5.Data Cleaning/index.html",

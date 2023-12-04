@@ -14,14 +14,23 @@ Modern soccer has become one of the current mainstream sports all over the world
 My questions:
 
 1.Can the training data of players be truly reflected on the field?
-2. Injuries can be painful for a player. After recovery, will the player's performance on the field be affected?
-3. Even in the same club, there are differences in the salaries of players, and how much does this affect their performance?
+
+2.Injuries can be painful for a player. After recovery, will the player's performance on the field be affected?
+
+3.Even in the same club, there are differences in the salaries of players, and how much does this affect their performance?
+
 4.What is the reason why many players are different between the national team and the club?
+
 5.Sometimes, the weather on the court can be very bad, how much does it affect the game?
-6. Different players have different foot habits. When they play football in different positions, will their foot habits and reverse foot ability become key factors
-7. Yellow and red cards are not uncommon on the field. Will there be some correlation between their numbers in different countries and levels of leagues?
-8. Many teams use different formations, will the use of this formation affect the results?
-9. The dietary management of a club is very important, and how much does it affect the physical indicators of players?
-10. The influence of a club is reflected in the number of season tickets sold. What factors affect it?
+
+6.Different players have different foot habits. When they play football in different positions, will their foot habits and reverse foot ability become key factors
+
+7.Yellow and red cards are not uncommon on the field. Will there be some correlation between their numbers in different countries and levels of leagues?
+
+8.Many teams use different formations, will the use of this formation affect the results?
+
+9.The dietary management of a club is very important, and how much does it affect the physical indicators of players?
+
+10.The influence of a club is reflected in the number of season tickets sold. What factors affect it?
 
 

@@ -1,0 +1,39 @@
+---
+title: "Data claening"
+author: "Yinuo Tao"
+
+categories: [my topic, questions]
+
+---
+
+ Clean Text Data from Twitter
+
+ Firstly, we will clean up the Twitter text data we have obtained. As the text volume is not very large, I will manually clean up unnecessary dates, times, emoticons, and so on. Then we use Python to statistically analyze the words with the highest frequency of occurrence, making it easier for subsequent analysis
+
+
+![](图片7.png)
+
+Manually cleaning redundant text and emoji
+
+
+![](图片8.png)
+
+List of frequency of word occurrence
+
+
+
+Clean Record Data
+
+Next, we will clean up the first dataset by using R to remove unnecessary columns and check for missing values. We will then discuss converting categorical variables into factors
+
+![](图片9.png)
+
+
+We can see that there is a missing value in the National Team Performance column, which is because some players have not played in national team matches, resulting in the missing value
+
+Next, we will set the Position and Preferred Foot columns as factors for further analysis
+
+
+![](图片10.png)
+
+The match dataset also has no missing values. In this way, we have obtained clean data

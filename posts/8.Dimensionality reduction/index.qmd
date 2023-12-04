@@ -1,0 +1,36 @@
+---
+title: "Dimensionality reduction"
+author: "Harlow Malloc"
+date: "2023-09-23"
+categories: [news, code, analysis]
+
+---
+
+
+The use of PCA is to reduce the dimension of data set and retain as much information as possible. In our case, we will use PCA to reduce the number of features in the soccer player data set, including height, weight, position, training level, salary, etc.
+
+We first standardize the data to ensure that the mean value of each feature is 0 and the variance is 1. This is because PCA is sensitive to the scale of data.
+
+By calculating the eigenvalues and eigenvectors of the covariance matrix, we find the principal components, and select the number of principal components according to the explained variance percentage. For example, we may choose to explain the principal components of more than 95% of the total variance.
+
+
+
+T-sne is a powerful nonlinear dimensionality reduction algorithm, which can effectively map high-dimensional data to 2D or 3D space for visualization.
+
+Before applying t-sne, we recommend using PCA for pre dimensionality reduction to remove noise and redundant features, which will help t-sne work more effectively.
+
+
+
+We will evaluate the effect of dimensionality reduction through visualization technology. For example, by observing the distribution of data points, we can determine which variables have the greatest impact on match performance.
+
+We can also evaluate the clustering of data by clustering algorithm, and compare with the results of PCA and t-sne to determine the different groups of athletes' performance.
+
+
+
+Conclusion: the results of this study are as follows
+
+By applying PCA, we can determine the principal components that have the greatest impact on match performance. The principal components are mainly composed of 'training level' and 'salary', which may indicate that these variables have a significant impact on performance.
+
+Finally, we can combine the advantages of PCA and t-sne to deal with large-scale model collection through PCA, and then use t-sne to reveal complex nonlinear relationships and cluster structures. This will provide us with a comprehensive view of which variables affect match performance of football players.
+
+The conclusions obtained from the above steps will provide valuable insights for football coaches, players and analysts to develop more effective training plans, optimize team configuration, and make more informed decisions in the game.

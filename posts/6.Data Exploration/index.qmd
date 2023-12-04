@@ -1,0 +1,52 @@
+---
+title: "Data exploration"
+author: "Yinuo Tao"
+
+categories: [my topic, questions]
+
+---
+
+Firstly, we use R to perform a simple visual analysis on the soccer dataset
+
+![](图片12.png)
+
+Distribution of Match Performance (Histogram):
+•	The histogram shows the frequency distribution of 'Match Performance' scores.
+•	The distribution appears to be normal with the highest frequency centered around a score of 8.
+•	Conclusion: The majority of players have a Match Performance score around 8, indicating a tendency towards higher performance levels in this dataset.
+
+
+![](图片14.png)
+
+Match Performance vs Salary (Scatter Plot):
+•	This scatter plot visualizes the relationship between 'Salary' and 'Match Performance'.
+•	There is no clear pattern or trend that indicates a relationship between the salary and performance.
+•	Conclusion: Based on this scatter plot, there does not appear to be a strong correlation between a player's salary and their match performance.
+
+
+![](图片15.png)
+
+Match Performance by Position (Boxplot):
+•	The boxplot compares 'Match Performance' across different playing positions.
+•	The medians are quite similar across positions, suggesting that the position might not be a strong predictor of Match Performance.
+•	Conclusion: All positions show a similar range of Match Performance, indicating that the position alone is not a primary determinant of performance in a match.
+
+
+![](图片16.png)
+Correlation Matrix (GGally ggpairs plot):
+•	The matrix includes scatter plots for pairwise relationships and histograms for the distribution of individual variables.
+•	'Training Level' and 'National Team Performance' show a strong positive correlation with 'Match Performance', as indicated by the correlation coefficient (Corr: 0.859 and 0.962 respectively) and the density of points along a line in the scatter plot.
+•	Conclusion: Both 'Training Level' and 'National Team Performance' are likely important factors influencing 'Match Performance'.
+
+
+![](图片17.png)
+
+Correlation Heatmap:
+•	This heatmap shows the correlation coefficients between different variables.
+•	Strong red color indicates a strong positive correlation, as observed between 'Match Performance' and 'National Team Performance', as well as 'Match Performance' and 'Training Level'.
+•	Conclusion: There is a strong positive correlation between 'Match Performance' and both 'National Team Performance' and 'Training Level', reinforcing the findings from the ggpairs plot.
+In summary, the visualizations suggest that while salary does not have a strong relationship with match performance, factors such as training level and national team performance may be significant predictors of how well a player performs in a match. There is no strong evidence to suggest that a player’s position is a decisive factor for their match performance within this dataset.
+
+2. Creating a Word Cloud for Twitter Text Using Python
+
+![](图片18.png)

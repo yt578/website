@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Yinuo Tao’s project",
+    "section": "",
+    "text": "introduction\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nConclusions\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nData Gathering\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nData claening\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nData exploration\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\nclustering\n\n\n\n\n\n\n\nmy topic\n\n\nquestions\n\n\n\n\n\n\n\n\n\n\n\nYinuo Tao\n\n\n\n\n\n\n  \n\n\n\n\ncode\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\ndata\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nDimensionality reduction\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nDecision Trees\n\n\n\n\n\n\n\nClassification\n\n\nRegression\n\n\n\n\n\n\n\n\n\n\n\nSep 23, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nFinal Introduction\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 20, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "introduction",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "My name is YInuo Tao, this is my first attempt at making a personal website, thanks for looking!"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Conclusions",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code copy 2/post-with-code/index.html",
+    "href": "posts/post-with-code copy 2/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/post-with-code/post-with-code/index.html",
+    "href": "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/post-with-code/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/post-with-code/index.html",
+    "href": "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 2/post-with-code/post-with-code/index.html",
+    "href": "posts/post-with-code copy 2/post-with-code/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy/index.html",
+    "href": "posts/post-with-code copy/index.html",
+    "title": "code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 2/index.html",
+    "href": "posts/post-with-code copy 2/index.html",
+    "title": "data",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/index.html",
+    "href": "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 7/index.html",
+    "href": "posts/post-with-code copy 7/index.html",
+    "title": "Dimensionality reduction",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 5/index.html",
+    "href": "posts/post-with-code copy 5/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 3/index.html",
+    "href": "posts/post-with-code copy 3/index.html",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 4/index.html",
+    "href": "posts/post-with-code copy 4/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 6/index.html",
+    "href": "posts/post-with-code copy 6/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/post-with-code copy 8/index.html",
+    "href": "posts/post-with-code copy 8/index.html",
+    "title": "Decision Trees",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/6.Data Exploration/index.html",
+    "href": "posts/6.Data Exploration/index.html",
+    "title": "Data exploration",
+    "section": "",
+    "text": "Firstly, we use R to perform a simple visual analysis on the soccer dataset\n\nDistribution of Match Performance (Histogram): • The histogram shows the frequency distribution of ‘Match Performance’ scores. • The distribution appears to be normal with the highest frequency centered around a score of 8. • Conclusion: The majority of players have a Match Performance score around 8, indicating a tendency towards higher performance levels in this dataset.\n\nMatch Performance vs Salary (Scatter Plot): • This scatter plot visualizes the relationship between ‘Salary’ and ‘Match Performance’. • There is no clear pattern or trend that indicates a relationship between the salary and performance. • Conclusion: Based on this scatter plot, there does not appear to be a strong correlation between a player’s salary and their match performance.\n\nMatch Performance by Position (Boxplot): • The boxplot compares ‘Match Performance’ across different playing positions. • The medians are quite similar across positions, suggesting that the position might not be a strong predictor of Match Performance. • Conclusion: All positions show a similar range of Match Performance, indicating that the position alone is not a primary determinant of performance in a match.\n Correlation Matrix (GGally ggpairs plot): • The matrix includes scatter plots for pairwise relationships and histograms for the distribution of individual variables. • ‘Training Level’ and ‘National Team Performance’ show a strong positive correlation with ‘Match Performance’, as indicated by the correlation coefficient (Corr: 0.859 and 0.962 respectively) and the density of points along a line in the scatter plot. • Conclusion: Both ‘Training Level’ and ‘National Team Performance’ are likely important factors influencing ‘Match Performance’.\n\nCorrelation Heatmap: • This heatmap shows the correlation coefficients between different variables. • Strong red color indicates a strong positive correlation, as observed between ‘Match Performance’ and ‘National Team Performance’, as well as ‘Match Performance’ and ‘Training Level’. • Conclusion: There is a strong positive correlation between ‘Match Performance’ and both ‘National Team Performance’ and ‘Training Level’, reinforcing the findings from the ggpairs plot. In summary, the visualizations suggest that while salary does not have a strong relationship with match performance, factors such as training level and national team performance may be significant predictors of how well a player performs in a match. There is no strong evidence to suggest that a player’s position is a decisive factor for their match performance within this dataset.\n\nCreating a Word Cloud for Twitter Text Using Python"
+  },
+  {
+    "objectID": "posts/4.Data Gathering/index.html",
+    "href": "posts/4.Data Gathering/index.html",
+    "title": "Data Gathering",
+    "section": "",
+    "text": "In order to obtain a large number of player data and their field performance data, I downloaded the most used European soccer database dataset from kaggle.\n\n Download address: https://www.kaggle.com/datasets/hugomathien/soccer/download?datasetversionnumber=10\nAs for the data on team formation and game results, I need a unilateral reference, so I obtained the data from fbref, a well-known data website, so that I can only use one team as a reference in a game to avoid the repeated use of one data\n \nNext, I used the python API to collect text data. I collected multiple tweets from 20 teams of Premier League"
+  },
+  {
+    "objectID": "posts/2.code/index.html",
+    "href": "posts/2.code/index.html",
+    "title": "code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/1.introduction/index.html",
+    "href": "posts/1.introduction/index.html",
+    "title": "introduction",
+    "section": "",
+    "text": "My Topic: On and off the pitch for soccer players\nModern soccer has become one of the current mainstream sports all over the world, and with the advancement of time and technology, many of the problems regarding soccer can be solved with more advanced technology rather than simple manpower. As a club manager, not only do we need to analyze the performance of footballers on the pitch, but many issues off the pitch are gradually coming to the forefront of people’s attention, so I will list the following ten issues and seek to analyze them through data.\n\nMy questions:\n1.Can the training data of players be truly reflected on the field? 2. Injuries can be painful for a player. After recovery, will the player’s performance on the field be affected? 3. Even in the same club, there are differences in the salaries of players, and how much does this affect their performance? 4.What is the reason why many players are different between the national team and the club? 5.Sometimes, the weather on the court can be very bad, how much does it affect the game? 6. Different players have different foot habits. When they play football in different positions, will their foot habits and reverse foot ability become key factors 7. Yellow and red cards are not uncommon on the field. Will there be some correlation between their numbers in different countries and levels of leagues? 8. Many teams use different formations, will the use of this formation affect the results? 9. The dietary management of a club is very important, and how much does it affect the physical indicators of players? 10. The influence of a club is reflected in the number of season tickets sold. What factors affect it?"
+  },
+  {
+    "objectID": "posts/3.data/index.html",
+    "href": "posts/3.data/index.html",
+    "title": "data",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/5.Data Cleaning/index.html",
+    "href": "posts/5.Data Cleaning/index.html",
+    "title": "Data claening",
+    "section": "",
+    "text": "Clean Text Data from Twitter\nFirstly, we will clean up the Twitter text data we have obtained. As the text volume is not very large, I will manually clean up unnecessary dates, times, emoticons, and so on. Then we use Python to statistically analyze the words with the highest frequency of occurrence, making it easier for subsequent analysis\n\nManually cleaning redundant text and emoji\n\nList of frequency of word occurrence\nClean Record Data\nNext, we will clean up the first dataset by using R to remove unnecessary columns and check for missing values. We will then discuss converting categorical variables into factors\n\nWe can see that there is a missing value in the National Team Performance column, which is because some players have not played in national team matches, resulting in the missing value\nNext, we will set the Position and Preferred Foot columns as factors for further analysis\n\nThe match dataset also has no missing values. In this way, we have obtained clean data"
+  },
+  {
+    "objectID": "posts/7.Clustering/index.html",
+    "href": "posts/7.Clustering/index.html",
+    "title": "clustering",
+    "section": "",
+    "text": "Cluster analysis is a good analysis method. Let’s try it. We can use the k-means method. I try to execute some values of K from 3 to 9, as well as the elbow graph\n     \nFrom these images, we can see how the quality of clustering changes with the number of clusters. In the three clusters, the boundary between groups seems to be obvious, which indicates that a small number of clusters may be enough to capture the main patterns in the data. As the number of clusters increases, especially when there are 9 clusters, although the clusters are more subdivided, the additional clusters do not provide much new information, which may lead to over fitting\nThe elbow diagram shows the relationship between the number of clusters and the sum of squares of distances within clusters. Ideally, this graph will show an “elbow” - as the number of clusters increases, the reduction rate of the sum of squares of distances will suddenly slow down, indicating the best number of clusters. In this elbow diagram, we do not see an obvious elbow, which may indicate that there is no obvious clustering structure in the data, or more complex methods are needed to determine the number of clusters"
+  },
+  {
+    "objectID": "posts/post-with-code copy 9/index.html",
+    "href": "posts/post-with-code copy 9/index.html",
+    "title": "ARM",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/8.Dimensionality reduction/index.html",
+    "href": "posts/8.Dimensionality reduction/index.html",
+    "title": "Dimensionality reduction",
+    "section": "",
+    "text": "This is a post with executable code.\nThe use of PCA is to reduce the dimension of data set and retain as much information as possible. In our case, we will use PCA to reduce the number of features in the soccer player data set, including height, weight, position, training level, salary, etc.\nWe first standardize the data to ensure that the mean value of each feature is 0 and the variance is 1. This is because PCA is sensitive to the scale of data.\nBy calculating the eigenvalues and eigenvectors of the covariance matrix, we find the principal components, and select the number of principal components according to the explained variance percentage. For example, we may choose to explain the principal components of more than 95% of the total variance.\nT-sne is a powerful nonlinear dimensionality reduction algorithm, which can effectively map high-dimensional data to 2D or 3D space for visualization.\nBefore applying t-sne, we recommend using PCA for pre dimensionality reduction to remove noise and redundant features, which will help t-sne work more effectively.\nWe will evaluate the effect of dimensionality reduction through visualization technology. For example, by observing the distribution of data points, we can determine which variables have the greatest impact on match performance.\nWe can also evaluate the clustering of data by clustering algorithm, and compare with the results of PCA and t-sne to determine the different groups of athletes’ performance.\nConclusion: the results of this study are as follows\nBy applying PCA, we can determine the principal components that have the greatest impact on match performance. The principal components are mainly composed of ‘training level’ and ‘salary’, which may indicate that these variables have a significant impact on performance.\nFinally, we can combine the advantages of PCA and t-sne to deal with large-scale model collection through PCA, and then use t-sne to reveal complex nonlinear relationships and cluster structures. This will provide us with a comprehensive view of which variables affect match performance of football players.\nThe conclusions obtained from the above steps will provide valuable insights for football coaches, players and analysts to develop more effective training plans, optimize team configuration, and make more informed decisions in the game."
+  },
+  {
+    "objectID": "posts/12.final introduction/index.html",
+    "href": "posts/12.final introduction/index.html",
+    "title": "Final Introduction",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/11.conclusions/index.html",
+    "href": "posts/11.conclusions/index.html",
+    "title": "Conclusions",
+    "section": "",
+    "text": "So far, after the above analysis, we can draw the following conclusions\nIn the dynamic world of professional football, the integration of various factors ultimately leads to the overall performance of the players and the success of the team. Through detailed analysis of a large number of data sets including physical attributes, performance indicators, environmental conditions and tactical decisions, we can infer some insights into the nature of the game.\nObviously, the strict training plan formulated by the club has had a real impact on the stadium. Athletes who show a high level of training often show excellent performance, which shows that the effort invested in the preparation is positively correlated with the output during the competition. The consistency of this model emphasizes the value of disciplined and targeted training programs.\nInjuries are an inevitable aspect of this sport, but their consequences are not just the loss and recovery of a story. The data shows that the performance after injury will experience a short decline, which will inevitably lead to an adjustment period, which is a delicate track. However, players’ resilience usually paves the way for recovery to pre injury conditions, although everyone’s time frame is different.\nThe salary difference within the club reflects the market dynamics and player valuation, which seems to have a nonlinear relationship with the performance on the field. Although compensation is a factor of players’ satisfaction and motivation, it is not the only determinant of performance. Other motivators, such as personal aspirations, team dynamics and career development aspirations, also play an important role\n\nThe differences in performance at the national and club levels can be attributed to different tactical methods, coaching styles and teamwork. Players often find themselves in different roles and systems, which can enhance or hinder their natural abilities. National pride and the weight of representing a country also contribute to these differences.\nThe analysis further reveals the measurable impact of environmental conditions such as weather on playability. Bad weather conditions, such as rainstorms, can change the speed, ball control, and overall strategy, and then affect the result of the game. Teams that are good at adapting to these changes maintain a competitive advantage.\nThe preference for left foot or right foot is an important factor in football. These data confirm the hypothesis that the use of players’ preferred feet and their proficiency in non dominated feet will affect their effectiveness in different positions on the court. This level of proficiency becomes particularly critical where a high level of ball control and passing accuracy is required.\nDisciplinary action is quantified by issuing yellow cards and red cards, revealing a pattern that intersects with the geographical and cultural background of the league. In different countries and levels of competition, the differences of referee standards, League disciplines and competition styles are obvious. This mode may affect the tactical methods adopted by the team and the behavior of the players on the court.\nTeam composition and its strategy implementation are the key to the formation of competition results. These data emphasize the clear link between formation selection and goal difference, indicating that tactical decision-making is as important as players’ skill execution. The success of formation is the fusion of player attributes, opponent analysis and real-time adaptability.\nFinally, the influence of a club in the broader football landscape is reflected in their media comments, which is an indicator of the attractiveness and marketability of the club. This kind of influence is formed by historical success, fan participation strategy, team performance and the existence of big players. Marketing activities also play a key role in this regard, emphasizing the multifaceted nature of football as a sport and a spectacle.\nIn short, football is a combination of training, strategy, personal skills and external factors, forming a complex and unpredictable picture. Our analysis provides an overall view of how these factors interact and influence, and provides insights into optimizing player performance and team success. As we continue to use data and analysis, there is a growing potential to improve our understanding and enhance competition standards."
+  },
+  {
+    "objectID": "posts/10.ARM/index.html",
+    "href": "posts/10.ARM/index.html",
+    "title": "ARM",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/9.Decision Trees/index.html",
+    "href": "posts/9.Decision Trees/index.html",
+    "title": "Decision Trees",
+    "section": "",
+    "text": "Based on the decision tree model created for the performance analysis of football players, we can draw some opinions and potential conclusions about the factors affecting the performance of the game.\n\n\nTraining level as the main predictor:\nThe decision tree starts with “training level”, indicating that this factor may be the most critical determinant of game performance. This is intuitive, because the degree and quality of players’ training can significantly affect their physical preparation, tactical understanding and technical skills on the pitch. The players with higher training level may be able to better cope with the requirements of competitive games, so as to obtain excellent performance.\nEffects of physical attributes:\nThe subsequent split in the tree showed that “height” and “weight” were secondary but still influencing factors. Height may be related to the advantage of air duel and set pieces, while weight may be related to physical fitness and endurance. These attributes can also be location specific; For example, a defender may benefit from a higher height, while a goalkeeper may benefit from a certain weight that balances size and agility.\nLocation specialization:\nThe decision tree also considers “location”, reflecting the professionalism of football, in which different roles may have unique needs. For example, the evaluation of attackers may depend more on their contribution to the goal, the evaluation of midfielders may depend more on their work efficiency and passing accuracy, and the evaluation of rear defenders may depend more on their ability to stop the opponent’s attack. The focus on position in this model emphasizes the need to adopt a detailed method to evaluate the performance of players, which is tailored to the specific responsibilities of each role on the field.\nSalary as a proxy for skills and experience:\nInterestingly, “salary” appears as another factor, which can be used as an agent of players’ skill level and experience. Higher salaries are usually earned by more mature players who show a high level of performance over time. Therefore, salary can indirectly reflect the ability of players to have a positive impact on the game.\nNational team performance:\nThe performance of the national team is considered to be a relevant factor, which shows that those who perform well internationally may bring confidence and high standards to their club performance. The success of national teams is often in the face of top opponents, which may enhance the players’ psychological and technical perseverance.\nPreferred foot and tactical flexibility:\n“Preferred foot” is displayed in the tree, suggesting that a player with a strong dominant foot or versatility may have an advantage. For example, left foot players are not common, but can provide unique tactical advantages, especially in positions with different passing and shooting angles, such as left back or left wing.\nDisciplinary records:\nFinally, the decision tree highlights “yellow cards” and “red cards”, which means that discipline on the pitch is related to performance. Accumulating fewer cards can indicate better decision-making and staying focused under pressure, both of which are critical to high performance.\nIn order to draw these conclusions from the decision tree, we must assume that the data used in the training model is accurate, diverse and representative of the football player group. Each partition in the tree represents a decision point based on historical data, and the prediction ability of the model depends on the quality of the data. In fact, each of these factors needs to be checked in the context of comprehensive statistical analysis and verified according to the known results to ensure reliability.\nIn conclusion, the decision tree provides a strategic framework for identifying and evaluating the complex interactions of factors affecting the performance of football players. Coaches, scouts and performance analysts can use this model as a starting point for a deeper investigation of player development, talent identification and game strategies. However, the results of this model should be interpreted with caution as part of a broader, data-based approach to understanding players’ football performance."
+  },
+  {
+    "objectID": "posts/7.Dimensionality reduction/index.html",
+    "href": "posts/7.Dimensionality reduction/index.html",
+    "title": "Dimensionality reduction",
+    "section": "",
+    "text": "This is a post with executable code."
+  }
+]

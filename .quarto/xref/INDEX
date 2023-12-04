@@ -1,0 +1,95 @@
+{
+  "index.qmd": {
+    "index.html": "960bee7a"
+  },
+  "about.qmd": {
+    "about.html": "cb8611b2"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "b795f81c"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "e5899130"
+  },
+  "posts/post-with-code copy 2/post-with-code/index.qmd": {
+    "index.html": "16038afa"
+  },
+  "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/post-with-code/post-with-code/index.qmd": {
+    "index.html": "1ce6f0c9"
+  },
+  "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/post-with-code/index.qmd": {
+    "index.html": "42a13fef"
+  },
+  "posts/post-with-code copy/index.qmd": {
+    "index.html": "25ffd29f"
+  },
+  "posts/post-with-code copy 2/index.qmd": {
+    "index.html": "40564109"
+  },
+  "posts/post-with-code copy 2/post-with-code/post-with-code/index.qmd": {
+    "index.html": "a88832b0"
+  },
+  "posts/post-with-code copy 2/post-with-code/post-with-code/post-with-code/index.qmd": {
+    "index.html": "c8304633"
+  },
+  "posts/post-with-code copy 3/index.qmd": {
+    "index.html": "5d8117f5"
+  },
+  "posts/post-with-code copy 4/index.qmd": {
+    "index.html": "acbc13bf"
+  },
+  "posts/post-with-code copy 5/index.qmd": {
+    "index.html": "ed1fd1bb"
+  },
+  "posts/post-with-code copy 6/index.qmd": {
+    "index.html": "b6bcf2cb"
+  },
+  "posts/post-with-code copy 7/index.qmd": {
+    "index.html": "fd49c5b8"
+  },
+  "posts/post-with-code copy 8/index.qmd": {
+    "index.html": "240542c9"
+  },
+  "posts/6.Data Exploration/index.qmd": {
+    "index.html": "e2716e03"
+  },
+  "posts/1.introduction/index.qmd": {
+    "index.html": "8a99e70f"
+  },
+  "posts/2.code/index.qmd": {
+    "index.html": "01c3b94e"
+  },
+  "posts/3.data/index.qmd": {
+    "index.html": "190a1488"
+  },
+  "posts/4.Data Gathering/index.qmd": {
+    "index.html": "683ff048"
+  },
+  "posts/5.Data Cleaning/index.qmd": {
+    "index.html": "2ecd2f60"
+  },
+  "posts/7.Clustering/index.qmd": {
+    "index.html": "e7f50189"
+  },
+  "posts/post-with-code copy 9/index.qmd": {
+    "index.html": "5bb608a9"
+  },
+  "posts/8.Dimensionality reduction/index.qmd": {
+    "index.html": "7833fdb9"
+  },
+  "posts/12.final introduction/index.qmd": {
+    "index.html": "18d423ba"
+  },
+  "posts/10.ARM/index.qmd": {
+    "index.html": "601fc6ba"
+  },
+  "posts/11.conclusions/index.qmd": {
+    "index.html": "32930dd0"
+  },
+  "posts/9.Decision Trees/index.qmd": {
+    "index.html": "5c31cc06"
+  },
+  "posts/7.Dimensionality reduction/index.qmd": {
+    "index.html": "83ecb112"
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/1.introduction/index.html",
+      "/posts/11.conclusions/index.html",
+      "/posts/4.Data Gathering/index.html",
+      "/posts/5.Data Cleaning/index.html",
+      "/posts/6.Data Exploration/index.html",
+      "/posts/7.Clustering/index.html",
+      "/posts/2.code/index.html",
+      "/posts/3.data/index.html",
+      "/posts/8.Dimensionality reduction/index.html",
+      "/posts/9.Decision Trees/index.html",
+      "/posts/12.final introduction/index.html"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+---
+title: "clustering"
+author: "Yinuo Tao"
+
+categories: [my topic, questions]
+
+---
+
+Cluster analysis is a good analysis method. Let's try it. We can use the k-means method. I try to execute some values of K from 3 to 9, as well as the elbow graph
+
+![](图片19.png)
+![](图片20.png)
+![](图片21.png)
+![](图片22.png)
+![](图片23.png)
+![](图片24.png)
+
+From these images, we can see how the quality of clustering changes with the number of clusters. In the three clusters, the boundary between groups seems to be obvious, which indicates that a small number of clusters may be enough to capture the main patterns in the data. As the number of clusters increases, especially when there are 9 clusters, although the clusters are more subdivided, the additional clusters do not provide much new information, which may lead to over fitting
+
+
+
+The elbow diagram shows the relationship between the number of clusters and the sum of squares of distances within clusters. Ideally, this graph will show an "elbow" - as the number of clusters increases, the reduction rate of the sum of squares of distances will suddenly slow down, indicating the best number of clusters. In this elbow diagram, we do not see an obvious elbow, which may indicate that there is no obvious clustering structure in the data, or more complex methods are needed to determine the number of clusters

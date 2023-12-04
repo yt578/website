@@ -1,0 +1,63 @@
+---
+title: "Decision Trees"
+author: "Harlow Malloc"
+date: "2023-09-23"
+categories: [Classification, Regression]
+
+---
+
+Based on the decision tree model created for the performance analysis of football players, we can draw some opinions and potential conclusions about the factors affecting the performance of the game.
+
+
+![](2.png)
+
+![](1.png)
+
+
+Training level as the main predictor:
+
+The decision tree starts with "training level", indicating that this factor may be the most critical determinant of game performance. This is intuitive, because the degree and quality of players' training can significantly affect their physical preparation, tactical understanding and technical skills on the pitch. The players with higher training level may be able to better cope with the requirements of competitive games, so as to obtain excellent performance.
+
+
+
+Effects of physical attributes:
+
+The subsequent split in the tree showed that "height" and "weight" were secondary but still influencing factors. Height may be related to the advantage of air duel and set pieces, while weight may be related to physical fitness and endurance. These attributes can also be location specific; For example, a defender may benefit from a higher height, while a goalkeeper may benefit from a certain weight that balances size and agility.
+
+
+
+Location specialization:
+
+The decision tree also considers "location", reflecting the professionalism of football, in which different roles may have unique needs. For example, the evaluation of attackers may depend more on their contribution to the goal, the evaluation of midfielders may depend more on their work efficiency and passing accuracy, and the evaluation of rear defenders may depend more on their ability to stop the opponent's attack. The focus on position in this model emphasizes the need to adopt a detailed method to evaluate the performance of players, which is tailored to the specific responsibilities of each role on the field.
+
+
+
+Salary as a proxy for skills and experience:
+
+Interestingly, "salary" appears as another factor, which can be used as an agent of players' skill level and experience. Higher salaries are usually earned by more mature players who show a high level of performance over time. Therefore, salary can indirectly reflect the ability of players to have a positive impact on the game.
+
+
+
+National team performance:
+
+The performance of the national team is considered to be a relevant factor, which shows that those who perform well internationally may bring confidence and high standards to their club performance. The success of national teams is often in the face of top opponents, which may enhance the players' psychological and technical perseverance.
+
+
+
+Preferred foot and tactical flexibility:
+
+"Preferred foot" is displayed in the tree, suggesting that a player with a strong dominant foot or versatility may have an advantage. For example, left foot players are not common, but can provide unique tactical advantages, especially in positions with different passing and shooting angles, such as left back or left wing.
+
+
+
+Disciplinary records:
+
+Finally, the decision tree highlights "yellow cards" and "red cards", which means that discipline on the pitch is related to performance. Accumulating fewer cards can indicate better decision-making and staying focused under pressure, both of which are critical to high performance.
+
+
+
+In order to draw these conclusions from the decision tree, we must assume that the data used in the training model is accurate, diverse and representative of the football player group. Each partition in the tree represents a decision point based on historical data, and the prediction ability of the model depends on the quality of the data. In fact, each of these factors needs to be checked in the context of comprehensive statistical analysis and verified according to the known results to ensure reliability.
+
+
+
+In conclusion, the decision tree provides a strategic framework for identifying and evaluating the complex interactions of factors affecting the performance of football players. Coaches, scouts and performance analysts can use this model as a starting point for a deeper investigation of player development, talent identification and game strategies. However, the results of this model should be interpreted with caution as part of a broader, data-based approach to understanding players' football performance.

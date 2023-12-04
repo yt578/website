@@ -1,0 +1,22 @@
+---
+title: "Data Gathering"
+author: "Yinuo Tao"
+
+categories: [my topic, questions]
+
+---
+
+In order to obtain a large number of player data and their field performance data, I downloaded the most used European soccer database dataset from kaggle.
+
+![](图片2.png)
+
+![](图片3.png)
+Download address: https://www.kaggle.com/datasets/hugomathien/soccer/download?datasetversionnumber=10
+
+As for the data on team formation and game results, I need a unilateral reference, so I obtained the data from fbref, a well-known data website, so that I can only use one team as a reference in a game to avoid the repeated use of one data
+
+![](图片4.png)
+![](图片5.png)
+
+Next, I used the python API to collect text data. I collected multiple tweets from 20 teams of Premier League
+![](图片6.png)
